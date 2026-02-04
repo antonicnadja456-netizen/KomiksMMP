@@ -1,0 +1,51 @@
+(Happy)
+Nerd: Um, actually you can't go here.
+(Neutral)
+Nerd: Without going through me that is.
+Player: !
+(Happy)
+Nerd: I am an intelectual (a nerd) so I will test your wits and knowledge!
+(Neutral)
+Nerd: So tell me ... which game was first?
+	Zelda
+	Tetris (poprawna)
+	Mario
+	
+Player: Tetris was first.
+(Surprised)
+Nerd: It can't be!!! You're correct...
+(Happy)
+Nerd: But wait, there is more. 
+(Neutral)
+Nerd: What year did Pokemon anime first air?
+	1997 (poprawna)
+	1995
+	1993
+
+Player: 1997.
+(Surprised)
+Nard: NANI??? Another correct choice...
+(Happy)
+Nerd: But now for my final question, the most diffucult one!
+(Neutral)
+Nerd: ...
+(Happy)
+Nerd: WHAT CLASS AM I PLAYING IN DUNGEONS AND DRAGONS?!
+	Rogue
+	Cleric
+	Wizard (poprawna)
+
+Player: Wizard.
+(Surprised)
+Nerd: **GASP** IMPOSSIBLE!!! You're correct...
+(Neutral)
+Nerd: ...
+Nerd: You've bested me. You've gained the respect of my club of intelectuals (nerds)!
+Nerd: Now I allow you to pass senpai.
+ 
+
+	
+Zła odpowiedź:
+(Happy)
+Nerd: HAHAHAHAHA!!! You're wrong!
+Nerd: You activated my trap card, and now you shall face my wrath!!!

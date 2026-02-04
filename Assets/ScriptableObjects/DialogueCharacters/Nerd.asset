@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 155b714f4b743d140a28cb54a741f00c, type: 3}
+  m_Name: Nerd
+  m_EditorClassIdentifier: 
+  displayName: Nerd
+  neutral: {fileID: -3684976992859605922, guid: 68ef7d629113aa64ca99fac6c3b78348, type: 3}
+  angry: {fileID: -3684976992859605922, guid: 68ef7d629113aa64ca99fac6c3b78348, type: 3}
+  happy: {fileID: 3242300773196182095, guid: ba1349fa585b62148ae39c186108e3ed, type: 3}
+  sad: {fileID: -3684976992859605922, guid: 68ef7d629113aa64ca99fac6c3b78348, type: 3}
+  surprised: {fileID: 3185017991222895148, guid: 588aaf8ebf666644e832ecd2d1c10049, type: 3}
